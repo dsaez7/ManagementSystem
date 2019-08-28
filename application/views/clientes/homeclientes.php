@@ -8,7 +8,7 @@
 		<div class="panel panel-primary">
 		  
 		  <div class="panel-heading">
-		  	<i class="fas fa-address-book"></i> Cartera de Clientes
+		  	<i class="fas fa-address-book"></i> Cartera de Clientes (En Construcci&oacute;n)
 		  	<button class="btn btn-success btn-xs pull-right btn-addnuevocli"><i class="glyphicon glyphicon-plus"></i> Agregar Nuevo Cliente</button>
 		  </div>
 		  
