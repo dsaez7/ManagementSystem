@@ -10,7 +10,7 @@ class Clientes extends MY_Controller {
     public function index(){
     	$this->load->model("wmsclientes_model", "clientes");
 
-    	$this->data['title'] = 'Cartera de Clientes';
+    	$this->data['title'] = 'Cartera de Clientes (en Construcci&oacute;n)';
 
     	$this->data['clientes'] = $this->clientes->getClientes();
 
